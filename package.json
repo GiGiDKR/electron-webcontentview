@@ -1,0 +1,16 @@
+{
+  "name": "agonizing-thrill-meet-vzw3l",
+  "productName": "agonizing-thrill-meet-vzw3l",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "Gildas",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
